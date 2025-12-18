@@ -22,9 +22,9 @@ reviews into positive and negative sentiments using machine learning.
 - **File Format:** CSV
 
 ### Features:
-- `review` – Customer review text
-- `rating` – Star rating (1–5)
-- `feedback` – Sentiment label  
+- `review` â€“ Customer review text
+- `rating` â€“ Star rating (1â€“5)
+- `feedback` â€“ Sentiment label  
   - 1 = Positive  
   - 0 = Negative  
 
@@ -43,7 +43,7 @@ reviews into positive and negative sentiments using machine learning.
 ---
 
 ## ?? Machine Learning Models
-- Naïve Bayes
+- NaÃ¯ve Bayes
 - Logistic Regression (Best Performing Model)
 
 ---
@@ -70,4 +70,5 @@ The Streamlit web app allows users to:
 ## ?? How to Run the Project
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Sentiment-Analysis-Amazon-Alexa.git
+git clone https://github.com/Krutik-s-giradkar/Sentiment-Analysis-Amazon-Alexa-Review.git
+
