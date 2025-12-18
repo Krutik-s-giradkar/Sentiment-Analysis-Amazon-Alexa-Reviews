@@ -70,4 +70,4 @@ The Streamlit web app allows users to:
 ## ▶️ How to Run the Project
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Sentiment-Analysis-Amazon-Alexa.git
+git clone https://github.com/Krutik-s-giradkar/Sentiment-Analysis-Amazon-Alexa-Review.git
